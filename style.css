@@ -1,0 +1,32 @@
+
+.maindiv{
+    background-color: #cce6ff;
+    height: 800px;
+    width: 900px;
+    margin-left: 40px;
+    margin-top: 40px;
+    display: block;
+    margin: 50px;
+    padding: 30px;
+}
+
+
+
+.divone{
+    background-color:white;
+    color: black;
+    height: 350px;
+    width: 700px;
+    font-size: 30px;
+    padding-left: 33px;
+    padding-top: 10px;
+    margin: 20px;
+}
+
+.divcom{
+    padding-top: 20px;
+}
+
+.image{
+    padding-top: 2opx;
+}
